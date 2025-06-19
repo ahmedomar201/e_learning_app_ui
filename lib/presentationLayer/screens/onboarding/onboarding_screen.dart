@@ -27,7 +27,11 @@ class Intro01 extends StatelessWidget {
                 ),
               ),
             ),
-            textOnboarding(label1: 'Online Learning', label2: 'We Provide Classes Online Classes and Pre Recorded Leactures.!',),
+            textOnboarding(
+              label1: 'Online Learning',
+              label2:
+                  'We Provide Classes Online Classes and Pre Recorded Leactures.!',
+            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
