@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'dataLayer/cubit/app_cubit.dart';
 import 'presentationLayer/screens/onboarding/onboarding_screen.dart';
-import 'presentationLayer/screens/splash_screen.dart';
 import 'core/utils/constansts.dart';
 import 'core/utils/injection.dart'as di;
 import 'core/utils/injection.dart';
